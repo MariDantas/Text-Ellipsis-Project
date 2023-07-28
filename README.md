@@ -1,1 +1,1 @@
-# TextEllipsisProject
+# Text Ellipsis Project
