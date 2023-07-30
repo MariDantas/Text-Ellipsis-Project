@@ -21,7 +21,7 @@ As this project doesn't use the HTTP protocol and requires running on a local se
 
 Visual Studio Code's "Live Server" feature acts as a local server, providing an easy way to execute and test applications without any complications. Although mainly intended for developers, I found it an interesting and useful tool for running this particular application.
 
-## Helpful links
+## Helpful Links
 * Learn JavaScript: https://www.learnjavascript.com/
 * JavaScript String Methods Documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 * Visual Studio Code download: https://code.visualstudio.com/
