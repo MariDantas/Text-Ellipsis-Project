@@ -2,5 +2,8 @@
  * @param {string} text
  */
 export function getDescription(text) {
-    return text.substring(0, 10) + "...";
+    if (text.length <= 10){
+        return text;
+    }
+    return `${text.substring(0, 10)}...`
 }
