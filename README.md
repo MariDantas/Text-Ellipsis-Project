@@ -7,8 +7,6 @@ This project was created in collaboration with the Learn JavaScript website to h
 
 The general idea is to capture user input with the function **getDescription()** and return the first 10 characters using the **substring()** method. In the first version, the characters were returned to the **index.js** file, responsible for adding an event listener to the text box and then displaying the characters below the text box. Currently, there's an "if" condition verifying if the text is below or equal to 10 characters. If it is, the whole text is returned. If not, the first 10 characters are returned with an ellipsis at the end.
 
-Both parts I and II use the **substring()** method. In part I, the method is employed as part of the **getDescription()** function to capture user input and return the first 10 characters. The resulting characters are displayed immediately below the text box. Part II adds a concatenation with an ellipsis, so at the end of each character sequence, the ellipsis is displayed.
-
 ## Executing the Project
 As this project doesn't use the HTTP protocol and requires running on a local server because of the modules, I recommend the following steps for execution:
 
